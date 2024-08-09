@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 2500,
+      "createdAt": "2024-06-11T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-06-11T19:30:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Faculdade",
+      "type": "outcome",
+      "category": "Estudos",
+      "price": 250,
+      "createdAt": "2024-06-11T19:30:44.505Z"
+    },
+    {
+      "description": "site",
+      "price": 2000,
+      "category": "dev",
+      "type": "income",
+      "createdAt": "2024-06-15T20:50:10.850Z",
+      "id": 4
+    },
+    {
+      "description": "days gone",
+      "price": 80,
+      "category": "jogo",
+      "type": "income",
+      "createdAt": "2024-06-15T21:24:04.530Z",
+      "id": 5
+    },
+    {
+      "description": "fifa",
+      "price": 150,
+      "category": "game",
+      "type": "outcome",
+      "createdAt": "2024-06-15T21:27:13.946Z",
+      "id": 6
+    }
+  ]
+}
